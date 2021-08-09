@@ -8,7 +8,7 @@
 [Testnet Explorer](https://explorer.nervos.org/aggron/transaction/0x3f831afe1391466e522c504bd1d37bf96fc09611b5c54c13e571e35b0ea59f69)
 
 ## 4. screenshot of deposit to Layer 2
-![](4-2.PNG "")
+![](4-2.png "")
 
 ## 5. SUDT ID
 741
